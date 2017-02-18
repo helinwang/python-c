@@ -5,7 +5,9 @@ Test if latency of preparing data in python background thread, can be hidden by 
 ./build.sh
 
 ## Run
-`python test.py`
+```
+python test.py
+```
 
 ## Output
 ```
