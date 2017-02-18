@@ -2,7 +2,9 @@
 Test if latency of preparing data in python background thread, can be hidden by calculation in native code (c++)
 
 ## Build
+```
 ./build.sh
+```
 
 ## Run
 ```
