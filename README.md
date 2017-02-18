@@ -1,11 +1,11 @@
 # python-c
-test if latency of preparing data in python background thread, can be hidden by calculation in native code (c++)
+Test if latency of preparing data in python background thread, can be hidden by calculation in native code (c++)
 
 ## Build
 ./build.sh
 
 ## Run
-python test.py
+`python test.py`
 
 ## Output
 ```
